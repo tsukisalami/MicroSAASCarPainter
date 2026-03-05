@@ -130,10 +130,16 @@ User (shop owner/employee)
 - [x] Send via Email + Copy Link buttons on quote detail
 - [x] Landing page (already done in Sprint 1)
 
-### Sprint 4: Polish & Deploy (Days 8-10)
-- [ ] Mobile responsiveness pass
-- [ ] Error handling & edge cases
-- [ ] Deploy to Vercel
+### Sprint 4: Polish & Deploy (Days 8-10) ✅
+- [x] Mobile responsive sidebar (hamburger toggle)
+- [x] Mobile-friendly header and quote detail layout
+- [x] Error boundaries (global + dashboard)
+- [x] 404 page
+- [x] Loading states
+- [x] OpenGraph metadata
+- [x] Git init + initial commit
+- [x] .env placeholders for Resend + Stripe
+- [ ] Deploy to Vercel (ready — just `vercel` CLI or connect GitHub repo)
 
 ---
 
